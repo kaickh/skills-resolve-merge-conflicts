@@ -1,1 +1,1 @@
-~~~ conflicting text~~~
+~~~ conflicting text
